@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hey! I'm Guillermo Céspedes 😄 
+ 
+I'm a software developer from Uruguay. 🇺🇾
+
 <!--
 **dertin/dertin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
