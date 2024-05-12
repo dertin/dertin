@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Hey! I'm Guillermo Céspedes 😄 
- 
-I'm a software developer from Uruguay. 🇺🇾
+I'm Guillermo Céspedes Tabárez 😄, a software developer from Uruguay. 🇺🇾
+
+🦀 Building today the innovations that will shape tomorrow. 
+
+🔮 Vision-driven, thrilling despite challenges.
 
 <!--
 **dertin/dertin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
