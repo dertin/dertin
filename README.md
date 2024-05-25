@@ -2,9 +2,9 @@
 
 I'm Guillermo Céspedes Tabárez 😄, a software developer from Uruguay. 🇺🇾
 
-🦀 Building today the innovations that will shape tomorrow. 
+🦀 Building today's innovations to shape tomorrow's technological landscape.
 
-🔮 Vision-driven, thrilling despite challenges.
+🔮 Vision-driven leadership, thriving through complex challenges.
 
 <!--
 **dertin/dertin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
